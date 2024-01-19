@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Adris",
+      "surnames": "Majo",
+      "title": "Title"
+    }
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "adrimajisimo@gmail.com"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
