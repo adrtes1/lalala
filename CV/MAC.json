@@ -10,6 +10,11 @@
       "surnames": "Majo",
       "title": "Title"
     }
+     "relevantYearsOfExperience": 20 {
+                    "type": "number",
+                    "description": "Relevant years of experience related with desired professional roles and goals."
+                    ""
+                },
   },
   "careerPreferences": {
     "contact": {
