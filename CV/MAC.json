@@ -11,6 +11,15 @@
       "title": "Title"
     }
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "AR",
+        "fullName": "Árabe",
+        "level": "Professional working proficiency"
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "contactMails": [
