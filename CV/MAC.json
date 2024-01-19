@@ -11,6 +11,33 @@
       "title": "yyyyy"
     }
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "h"
+        },
+        "roles": [
+          {
+            "name": "hhhh",
+            "startDate": "1984-04-01",
+            "finishDate": "1985-02-01",
+            "challenges": [
+              {
+                "description": "hhh"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
