@@ -60,7 +60,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "YAML",
+          "name": "JavaScript",
           "type": "technology"
         }
       }
@@ -82,7 +82,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "YAML",
+        "name": "JavaScript",
         "type": "technology"
       }
     ]
